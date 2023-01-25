@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  Posts List
+
+  Created by Guadalupe Vlček on 23/01/2023.
+  
+*/
+
+// MARK: - MainViewController
+"MainView_title" = "Lista de posts";
+"MainView_section_favorites" = "Favoritos";
+"MainView_section_posts" = "Posts";
+
+"MainView_alert_title" = "¿Eliminar los posts? Los favoritos no serán eliminados";
+"MainView_alert_delete" = "Eliminar";
+"MainView_alert_cancel" = "Cancelar";
+
+// MARK: - DetailViewController
+"MainView_detail_comments" = "Comments";

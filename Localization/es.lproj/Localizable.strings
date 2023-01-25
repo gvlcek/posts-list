@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  Posts List
+
+  Created by Guadalupe Vlček on 23/01/2023.
+  
+*/
+
+// MARK: - MainViewController
+"MainView_title" = "Posts List";

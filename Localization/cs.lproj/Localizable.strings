@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  Posts List
+
+  Created by Guadalupe Vlček on 23/01/2023.
+  
+*/
+
+// MARK: - MainViewController
+"MainView_title" = "Seznam post";
+"MainView_section_favorites" = "Favorites";
+"MainView_section_posts" = "Seznam";
+
+"MainView_alert_title" = "Odstranit? Los favoritos no serán eliminados";
+"MainView_alert_delete" = "Odstranit";
+"MainView_alert_cancel" = "zrušení";
